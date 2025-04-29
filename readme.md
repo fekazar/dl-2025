@@ -1,8 +1,5 @@
 # HW1. Loan Approval Prediction 
 
-[Ссылка на Colab](https://colab.research.google.com/drive/1KVeB47Hq7xLsFuiJ20NUErzHNR7EtYQS#scrollTo=eUeos_DArV7Q)
-## Эксперимент 1. Простая модель 
-
 ### Как ведёт себя модель по мере обучения? Сколько эпох оптимально?
 
 `Train Loss=0.2270, Train ROC-AUC=0.9046, Eval Loss=0.2186, Eval ROC-AUC=0.9162`
