@@ -1,0 +1,1 @@
+![adam vs lion, mnist](./comparison.png)
